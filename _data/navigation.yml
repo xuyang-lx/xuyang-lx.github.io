@@ -1,5 +1,12 @@
 # main links links
 main:
+
+  - title: "Home"
+    url: https://xuyang-lx.github.io/
+
+#  - title: "Research"
+#    url: /research/
+
   - title: "Publications"
     url: /publications/
 

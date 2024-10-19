@@ -84,8 +84,7 @@ author:
   avatar           : "/images/bio-photo.jpg"
   bio              : "Postdoc Researcher @ Pennsylvania State University"
   location         : "State College, PA"
-  cv               : "/files/Xuyang_Li_CV.pdf"
-  # employer         :
+# employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://scholar.google.com/citations?user=RwBW8jUAAAAJ"
   email            : "lixuyang@psu.edu"
