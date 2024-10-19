@@ -15,7 +15,7 @@ Currently, I am a postdoctoral researcher at Penn State University (PSU), focusi
 
 Research
 ------
-[](files/research.png)
+![Research Image](/files/research.png)
 
 
 **Research 1**
