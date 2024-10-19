@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Xuyang Li"
-  avatar           : "/images/bio-photo.jpg"
+  avatar           : "images/bio-photo.jpg"
   bio              : "Postdoc Researcher @ Pennsylvania State University"
   location         : "State College, PA"
 # employer         :
