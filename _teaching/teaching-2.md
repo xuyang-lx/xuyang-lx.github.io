@@ -7,5 +7,3 @@ venue: "Michigan State University, Civil and Environmental Department"
 date: 2020-01-01
 location: "East Lansing, MI"
 ---
-
-
