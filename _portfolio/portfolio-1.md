@@ -4,4 +4,4 @@ excerpt: "Our work is accepted by Nature Communications! Please check out the [A
 collection: portfolio
 ---
 
-Our work is accepted by Nature Communications! Please check out the [Arxiv page](https://arxiv.org/abs/2402.15492) and [GitHub repository](https://github.com/human-analysis/midas-shm).
+Our work is accepted by <strong>Nature Communications</strong>! Please check out the [Arxiv page](https://arxiv.org/abs/2402.15492) and [GitHub repository](https://github.com/human-analysis/midas-shm).

@@ -4,4 +4,4 @@ excerpt: "Please check our publication [here](https://link.springer.com/chapter/
 collection: portfolio
 ---
 
-Please check our publication [here](https://link.springer.com/chapter/10.1007/978-3-031-25082-8_22).
+Check out our publication [here](https://link.springer.com/chapter/10.1007/978-3-031-25082-8_22).
