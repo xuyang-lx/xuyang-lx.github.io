@@ -1,7 +1,7 @@
 ---
 title: "Portfolio 1"
-excerpt: "Poster 1 <br/><img src='/files/portfolio/poster1.png'>"
+excerpt: "Our work is accepted by Nature Communications! Please check out the ![Arxiv page](https://github.com/human-analysis/midas-shm) and ![GitHub repository](https://github.com/human-analysis/midas-shm). <br/><img src='/files/portfolio/poster1.png'>"
 collection: portfolio
 ---
 
-Please check our publication ![here](https://link.springer.com/chapter/10.1007/978-3-031-25082-8_22).
+Our work is accepted by Nature Communications! Please check out the ![Arxiv page](https://github.com/human-analysis/midas-shm) and ![GitHub repository](https://github.com/human-analysis/midas-shm).
