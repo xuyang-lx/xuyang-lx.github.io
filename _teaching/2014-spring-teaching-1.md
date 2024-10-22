@@ -1,9 +1,9 @@
 ---
 title: "CE221 Statics"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+type: "Teaching Assitant"
+permalink: /teaching/teaching-1
+venue: "Michigan State University, Civil and Environmental Department"
+date: 2020-01-01
 location: "East Lansing, MI"
 ---
