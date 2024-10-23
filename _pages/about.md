@@ -19,5 +19,6 @@ Research
 ![Research Image](/files/research.png)
 
 
-**Research 1**
+<!-- **Research 1**
 Under development...
+-->
