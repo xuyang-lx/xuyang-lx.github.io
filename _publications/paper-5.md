@@ -9,11 +9,8 @@ paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-25082-8_22'
 ---
 
 <figure>
-  <img src="/files/publications/NeuralSI.png" alt="Description of the image" />
+  <img src="/files/publications/NeuralSI.png" alt="Description of the image" style="width: 600px;" />
   <figcaption><strong>NeuralSI framework</strong>. We propose NeuralSI for nonlinear dynamic system identification that allows us to discover the unknown parameters of partial differential equations from measured sensing data.</figcaption>
 </figure>
-
-
-[Download paper here](https://link.springer.com/chapter/10.1007/978-3-031-25082-8_22)
 
 [GitHub](https://github.com/human-analysis/neural-structural-identification)

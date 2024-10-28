@@ -7,6 +7,3 @@ venue: 'Smart Materials, Adaptive Structures and Intelligent Systems (SMASIS), 2
 paperurl: 'https://asmedigitalcollection.asme.org/SMASIS/proceedings-abstract/SMASIS2022/86274/1150809'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-
-
-[Download paper here](https://asmedigitalcollection.asme.org/SMASIS/proceedings-abstract/SMASIS2022/86274/1150809)
