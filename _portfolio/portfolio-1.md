@@ -1,5 +1,5 @@
 ---
-title: "Poster 1"
+title: "Poster 1: Mechanics-informed autoencoder enables automated detection and localization of unforeseen structural damage"
 excerpt: "Our work is accepted by Nature Communications! Please check out the [Arxiv page](https://github.com/human-analysis/midas-shm) and [GitHub repository](https://github.com/human-analysis/midas-shm). <br/><img src='/files/portfolio/poster1.png'>"
 collection: portfolio
 ---
