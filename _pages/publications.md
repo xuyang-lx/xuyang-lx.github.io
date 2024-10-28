@@ -20,7 +20,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ---
 ## [Mechanics-Informed Autoencoder Enables Automated Detection and Localization of Unforeseen Structural Damage](https://www.nature.com/articles/s41467-024-52501-4)
-Nature Communications, 2024 [GitHub](https://github.com/human-analysis/midas-shm)
+Nature Communications, 2024 [[GitHub]](https://github.com/human-analysis/midas-shm)
 
 <figure>
   <img src="/files/publications/MIDAS.png" alt="Description of the image" style="width: 800px;" />
@@ -41,7 +41,7 @@ Under review...
 
 ---
 ## [NeuralSI: Structural Parameter Identification in Nonlinear Dynamical Systems](https://link.springer.com/chapter/10.1007/978-3-031-25082-8_22)
-ECCV European Conference on Computer Vision Workshops, 2022 [GitHub](https://github.com/human-analysis/neural-structural-identification)
+ECCV European Conference on Computer Vision Workshops, 2022 [[GitHub]](https://github.com/human-analysis/neural-structural-identification)
 
 <figure>
   <img src="/files/publications/NeuralSI.png" alt="Description of the image" style="width: 700px;" />
