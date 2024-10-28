@@ -36,6 +36,10 @@ ICLR Workshop on AI4DifferentialEquations In Science, 2024
 NeurIPS Workshop on Data-driven and Differentiable Simulations, Surrogates, and Solvers. 2024
 
 ---
+## [Data-driven mechanical behavior modeling of granular biomass materials]
+Under review...
+
+---
 ## [NeuralSI: Structural Parameter Identification in Nonlinear Dynamical Systems](https://link.springer.com/chapter/10.1007/978-3-031-25082-8_22)
 ECCV European Conference on Computer Vision Workshops, 2022 [GitHub](https://github.com/human-analysis/neural-structural-identification)
 
