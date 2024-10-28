@@ -9,7 +9,7 @@ paperurl: 'https://www.nature.com/articles/s41467-024-52501-4'
 ---
 
 <figure>
-  <img src="/files/publications/MIDAS.png" alt="Description of the image" style="width: 600px;" />
+  <img src="/files/publications/MIDAS.png" alt="Description of the image" style="width: 800px;" />
   <figcaption><strong>MIDAS framework for automated detection and localization of unforeseen structural damage</strong>. MIDAS is a synergistic integration of entirely passive measurements from inexpensive sensors, data compression, and a mechanics-informed autoencoder.</figcaption>
 </figure>
 
