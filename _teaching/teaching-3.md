@@ -4,6 +4,6 @@ collection: teaching
 type: "Delivering Selected Lectures as a Postdoc"
 permalink: /teaching/teaching-3
 venue: "Pennsylvania State University, Information Sciences and
-Technology"
+Technology, Fall 2024"
 location: "State College, PA"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Poster 4: Data-driven mechanical behavior modeling of granular biomass materials"
-excerpt: " <br/><img src='/files/portfolio/poster3.png'>"
+excerpt: " <br/><img src='/files/portfolio/poster4.png'>"
 collection: portfolio
 ---
 
