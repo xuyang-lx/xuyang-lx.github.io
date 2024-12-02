@@ -4,7 +4,7 @@ excerpt: "Our work is accepted by Nature Communications! Please check out the [A
 collection: portfolio
 ---
 
-Our work is pubulished at <strong>Nature Communications</strong>! Please check out the [Paper](https://www.nature.com/articles/s41467-024-52501-4), [Arxiv page](https://arxiv.org/abs/2402.15492), and [GitHub repository](https://github.com/human-analysis/midas-shm).
+Our work is pubulished at <strong>Nature Communications</strong> and selected as [[Editors' Highlights]](https://www.nature.com/collections/fhffefjdca#:~:text=Mechanics%2Dinformed%20autoencoder%20enables%20automated%20detection%20and%20localization%20of%20unforeseen%20structural%20damage)! Please check out the [Paper](https://www.nature.com/articles/s41467-024-52501-4) and [GitHub repository](https://github.com/human-analysis/midas-shm).
 -----
 
 <figure>
