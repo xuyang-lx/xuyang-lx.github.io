@@ -1,5 +1,5 @@
 ---
-title: "CE221 Statics"
+title: "CE-221 Statics"
 collection: teaching
 type: "Teaching Assitant"
 permalink: /teaching/teaching-1

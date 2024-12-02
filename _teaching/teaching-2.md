@@ -1,5 +1,5 @@
 ---
-title: "CE461 Computational Methods in Engineering"
+title: "CE-461: Computational Methods in Engineering"
 collection: teaching
 type: "Teaching Assitant"
 permalink: /teaching/teaching-2

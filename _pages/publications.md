@@ -32,7 +32,7 @@ Nature Communications 2024 [[GitHub]](https://github.com/human-analysis/midas-sh
 ICLR Workshop on AI4DifferentialEquations In Science 2024
 
 ---
-## ParaFIND: Parameter Field Inference on Non-uniform Domains using Neural Network
+## [ParaFIND: Parameter Field Inference on Non-uniform Domains using Neural Network](https://openreview.net/pdf?id=q3cZv6EYB0)
 NeurIPS Workshop on Data-driven and Differentiable Simulations, Surrogates, and Solvers. 2024
 
 ---
