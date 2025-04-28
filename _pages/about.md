@@ -14,10 +14,13 @@ I earned a dual Ph.D. in Civil Engineering and Computer Science at Michigan Stat
 Currently, I am a postdoctoral researcher at Penn State University (PSU), focusing on applied scientific reinforcement learning, supervised by Prof. [Romit Maulik](https://romit-maulik.github.io/Members.html).
 
 
-Research
+Research Interest
 ------
-![Research Image](/files/research.png)
+Scientific Machine learning
 
+Structural Health Monitoring
+
+System Identification
 
 <!-- **Research 1**
 Under development...
