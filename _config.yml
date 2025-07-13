@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
 name                     : &name "Xuyang Li"
-description              : &description "Pennsylvania State University"
+description              : &description "University of North Carolina at Charlotte"
 url                      : https://xuyang-lx.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xuyang-lx/xuyang-lx.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xuyang Li"
   avatar           : "bio-photo.jpg"
-  bio              : "Postdoc Researcher @ Pennsylvania State University"
-  location         : "State College, PA"
+  bio              : "Assistant Professor @ University of North Carolina at Charlotte"
+  location         : Charlotte, NC"
 # employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://scholar.google.com/citations?user=RwBW8jUAAAAJ"
-  email            : "lixuyang@psu.edu"
+  email            : "xuyang.li@charlotte.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
