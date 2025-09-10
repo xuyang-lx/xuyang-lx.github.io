@@ -10,7 +10,7 @@ redirect_from:
 About me
 ------
 
-I am an Assistant Professor in the Department of Engineering Technology & Construction Management at the University of North Carolina at Charlotte (starting Fall 2025). My research focuses on interdisciplinary advances at the intersection of engineering mechanics and scientific machine learning (SciML), with applications in structural health monitoring (SHM), system identification, and dynamical system modeling.
+I am an Assistant Professor in the Department of Engineering Technology & Construction Management at the University of North Carolina at Charlotte. My research focuses on interdisciplinary advances at the intersection of engineering mechanics and scientific machine learning (SciML), with applications in structural health monitoring (SHM), system identification, and dynamical system modeling.
 
 I received my dual Ph.D. in Civil Engineering and Computer Science from Michigan State University and held a one-year postdoctoral research position at Penn State University.
 
